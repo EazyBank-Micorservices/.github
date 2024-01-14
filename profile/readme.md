@@ -5,7 +5,7 @@ modular banking services.
 
 ## Project Architecture
 
-![project architecture ](assests/architecture.png)
+![project architecture ](https://github.com/EazyBank-Micorservices/.github/blob/master/profile/assests/architecture.png)
 
 ## Contributing
 
