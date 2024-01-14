@@ -1,8 +1,11 @@
-Certainly! Here's a concise version for a README:
-
 # Eazy Bank Microservices
 
-Welcome to the Eazy Bank Microservices project! This project employs a microservices architecture for scalable and modular banking services.
+Welcome to the Eazy Bank Microservices project! This project employs a microservices architecture for scalable and
+modular banking services.
+
+## Project Architecture
+
+![project architecture ](../assests/1%20-%20Microservices.png)
 
 ## Contributing
 
