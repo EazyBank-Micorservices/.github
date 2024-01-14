@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+
+# User-specific files
+*.iml
+*.iws
+*.iws.xml
+*.ipr
+
+# Logs
+*.log
+
+# Compiled bytecode
+*.class
+
+# Dependencies
+.ideaLibraries/
+.idea_modules/
+
+# Editor-based stuff
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
