@@ -5,7 +5,7 @@ modular banking services.
 
 ## Project Architecture
 
-![project architecture ](../assests/1%20-%20Microservices.png)
+![project architecture ](assests/1%20-%20Microservices.png)
 
 ## Contributing
 
