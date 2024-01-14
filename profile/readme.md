@@ -8,7 +8,7 @@ Microservices is an approach to developing a single application as a suite of sm
 
 ## Project Architecture 🌐
 
-![Project Architecture](https://github.com/EazyBank-Microservices/.github/blob/master/profile/assets/architecture.png)
+![Project Architecture](https://github.com/EazyBank-Micorservices/.github/blob/master/profile/assests/architecture.png)
 
 ## Contributing 🚀
 
